@@ -1,0 +1,56 @@
+[
+  {
+    "id": "63884a9f3f12c85f10975dae",
+    "picture": "https://www.yogaclassplan.com/wp-content/uploads/2017/06/Mountain-Pose.jpg",
+    "age": 38,
+    "title": " Mountain Pose (Tadasana)",
+    "description":"In Mountain Pose, you stand upright with your feet facing forward parallel to each other and your arms at your sides, palms facing forward. Because this pose requires you to keep the shoulders open and down, away from the ears, it promotes good posture. The empowering nature of Tadasana also enhances stability.",
+    "gender": "male",
+    "time":40
+  },
+  {
+    "id": "63884a9f7d05d0070c9d4091",
+    "picture": "https://media.istockphoto.com/id/1165379653/photo/young-yogi-men-practices-yoga-asana-bitilasana-or-cat-cow-pose.jpg?s=612x612&w=0&k=20&c=eN3MFS_SjjmTwW-F1lPYS9ijQgb66TW6YA_iZqULHKI=",
+    "age": 20,
+    "title": "Cat/Cow Pose (Marjaryasana to Bitilasana)",
+    "description":"Cat-Cow Pose is a gentle flow sometimes also practiced as a simple restorative pose and is one of the most popular poses. It’s a balancing pose for beginners and helps in strengthening the arms, legs and core muscles. It also stretches the back, torso, and neck and softly stimulates and strengthens the abdominal organs.",
+    "gender": "male",
+    "time":50
+  },
+  {
+    "id": "63884a9fc5f0aa70a3c01c63",
+    "picture": "https://img.freepik.com/free-photo/unrecognizable-man-with-black-hair-doing-yoga-home-having-rest-balasana-child-pose-relaxing-body-muscles-asanas-stretching-lower-back-hips-relaxation-health-concept_343059-1960.jpg?w=2000",
+    "age": 26,
+    "title": "Child's Pose (Balasana)",
+    "description":"Child’s Pose (Balasana) centers on creating a moment of rest or respite. It is a foundational yoga posture that reminds us that inaction and “non-doing” can be just as valuable as action and doing.",
+    "gender": "male",
+    "time":60
+  },
+  {
+    "id": "63884a9fcfda901817c16996",
+    "picture": "https://www.yogajournal.com/wp-content/uploads/2021/11/Downward-Facing-Dog-Pose-Mod-1_Andrew-Clark_1.jpg",
+    "age": 21,
+    "title": "Downward-Facing Dog (Adho Mukha Svanansana)",
+    "description":"Down Dog can help to build better balance and flexibility throughout your whole body. Just be sure to practice it with care and attention: If you have stiff shoulders or hamstrings, the pose may feel challenging. If you’re flexible, you want to be cautious to avoid collapsing in your lower back and shoulders",
+    "gender": "male",
+    "time":45
+  },
+  {
+    "id": "63884a9f04656b77e692fb17",
+    "picture": "https://img.freepik.com/premium-photo/fit-muscular-man-practising-warrior-ii-virabhadrasana-ii-yoga-pose-open-up-strengthen-muscles-his-hips-chest-groin-shoulders-aid-concentration_126745-2981.jpg?w=2000",
+    "age": 28,
+    "title": "Warrior I (Virabhadrasana I)",
+    "description":"Benefits: Warrior I strengthens and stretches your legs and buttocks (glutes), the front of your hips (hip flexors), and shins. In your front leg, this pose strengthens the your thigh, calf, and ankle. In your back leg, it stretches the back of your thigh (hamstring) and calf muscles.",
+    "gender": "male",
+    "time":30
+  },
+  {
+    "id": "63884a9fb5331baecc90fb80",
+    "picture": "https://img.freepik.com/premium-photo/portrait-man-wearing-sportswear-doing-sport-exercises-home-practicing-yoga-standing-virabhadrasana-ii-warrior-pose-with-dumbbells-doing-stretching-exercise_176532-18437.jpg?w=740",
+    "age": 29,
+    "title": "Warrior II (Virabhadrasana II)",
+    "description":"Virabhadrasana 2 (Warrior 2 Pose), named after Hindu god who incarnated as a human, enhances the strength and stamina of beginner and advanced yogis alike. In the pose, your front knee bends to create a stretch in your hips, your arms engage and extend straight out from your shoulders, and your gaze, or dristhi, remains calm and steady toward your front hand. It is the second of three poses dedicated to Virabhadra.",
+    "gender": "male",
+    "time":60
+  }
+]
